@@ -1,0 +1,8 @@
+{
+  "name": "latex",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:airmelon-studio/latex.git",
+  "author": "Arnaud Zheng <arnaud-zg@users.noreply.github.com>",
+  "license": "MIT"
+}
