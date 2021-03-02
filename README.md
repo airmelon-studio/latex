@@ -29,6 +29,8 @@ image: airmelonstudio/latex:latest
 ...
 ```
 
+You can also take a look at all available [tags](https://hub.docker.com/r/airmelonstudio/latex/tags).
+
 ## Find Us
 
 * [GitHub](https://github.com/airmelon-studio/latex)
