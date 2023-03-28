@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@master
     # Uses the git branch as the docker tag and pushes the container
     - name: Publish to Registry
-      uses: elgohr/Publish-Docker-Github-Action@master
+      uses: elgohr/Publish-Docker-Github-Action@v5
       with:
         name: airmelonstudio/latex
         username: ${{ secrets.DOCKER_USERNAME }}
